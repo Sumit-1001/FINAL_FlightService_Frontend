@@ -87,13 +87,6 @@ function Navbar() {
               >
                 Flights
               </Link>
-
-              <Link
-                className="nav-link"
-                to="/mybookings"
-              >
-                My Bookings
-              </Link>
             </>
           )}
 
